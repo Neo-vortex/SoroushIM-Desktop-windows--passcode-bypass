@@ -14,3 +14,7 @@ to exploit:
 NOTE: make sure the Windows of the Sorosuh Messager should not be minimized while running Poc.
 
 NOTE: The same result can be also reached by manual resizing in the proper form. 
+
+
+for the video visit :
+https://youtu.be/TFaCpOzqLpg
