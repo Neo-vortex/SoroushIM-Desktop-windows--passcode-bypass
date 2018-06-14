@@ -1,7 +1,7 @@
 # SoroushIM-Desktop-windows--passcode-bypass
 The local passcode of the client installed on windows OS (others?) can be bypassed with window resizing .
 
-The lock screen of the app is designed to be intractive with windows resizing , but putting the window in an unpredicted situation will result the lock screen to vannish and the passcode to get bypassed
+The lock screen of the app is designed to be intractive with window resizing , but putting the window in an unpredicted situation will result the lock screen to vannish and the passcode to get bypassed
 
 to exploit: 
 
